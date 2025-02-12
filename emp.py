@@ -1,11 +1,11 @@
-import module as em
+# import module as em
 
-em.college()
-print(em.location)
-emp = em.Employee("zafar","Associate Professor")
-emp.show()
+# em.college()
+# print(em.location)
+# emp = em.Employee("zafar","Associate Professor")
+# emp.show()
 
-from module import*
-em.college()
-print(em.location)
+# from module import*
+# em.college()
+# print(em.location)
 

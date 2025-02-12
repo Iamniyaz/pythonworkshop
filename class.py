@@ -99,42 +99,43 @@
 
 
 
-class Car:
-    def __init__ 
+# class Car:
+#     def __init__ 
 
 
 
-    def move(self):
-        print("sail!")
+#     def move(self):
+#         print("sail!")
 
-class Plane:
-    def __init__(self,brand,model):
-        self.brand = brand
-        self.model = model
+# class Plane:
+#     def __init__(self,brand,model):
+#         self.brand = brand
+#         self.model = model
     
-    def move(self):
-        print("fly!")
+#     def move(self):
+#         print("fly!")
     
-car1 = Car("Ford","Mustang")
-boat1 = Boat("ibiza","Touring" 20)
+# car1 = Car("Ford","Mustang")
+# boat1 = Boat("ibiza","Touring" 20)
 
 
 
 
-class Vehicle:
-    def __init__(self,brand,model):
-        self.brand= brand
-        self.model= model
+# class Vehicle:
+#     def __init__(self,brand,model):
+#         self.brand= brand
+#         self.model= model
     
-    def move(self):
-        print("Move!")
-class Car(Vehicle):
-    pass
-class Boat(Vehicle):
-    pass
-class Boat(Vehicle):
-    def move(self):
-        print("Sail!")
+#     def move(self):
+#         print("Move!")
+# class Car(Vehicle):
+#     pass
+# class Boat(Vehicle):
+#     pass
+# class Boat(Vehicle):
+#     def move(self):
+#         print("Sail!")
 
-class Plane(Vehicle):
-    def move(self)
+# class Plane(Vehicle):
+#     def move(self)
+  
